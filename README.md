@@ -10,8 +10,9 @@
 6. There's an instructions before playing
 7. The player can randomly pic between 3 objects
 
-<dl>
+
   # Use Case design
+  <dl>
   <dd>The player can randomly pic an objects</dd>
   <dd>The player will have a 5 sec.time to choose an object</dd>
   <dd>The player can view an instructions.</dd>
